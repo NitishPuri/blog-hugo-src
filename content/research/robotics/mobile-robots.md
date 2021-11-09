@@ -33,7 +33,7 @@ Very minimal notes on some papers or articles that I recently read. Mainly for l
 * *Broadcaster* broadcasts messages every time an update is heard about a specific transform.
 * *Listner* collects the values and interpolates using SLERP, without assuming the presence of a future frame.
 * The interpolation is a critical ability, as it allows the system to be asynchronous and robust to lost packets.
-* *Transform Computation* using chaining. $T_c^a=T_a^b\timesT_b^c$.
+* *Transform Computation* using chaining. $T_c^a=T_a^b \times T_b^c$.
 * **Strengths :** *Efficiency, Flexibility*
 * **Extensions :**
 * Support for velocity.

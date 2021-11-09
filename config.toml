@@ -1,13 +1,13 @@
 BaseURL = "https://www.myproductionurl.com/"
 languageCode = "en-us"
-title = "My Hugo Site"
-theme = "mytheme"
-# theme = "hugo-bootstrap-5"
+title = "Blog - Nitish Puri"
+# theme = "mytheme"
+theme = "hugo-bootstrap-5"
 relativeURLS = true
 
 [params]
-author = "Blog Author"
-description = "This is an awesome Hugo Bootstrap site"
+author = "Nitish Puri"
+description = "These are some notes."
 logo = "https://www.mywebsite.com/images/logo.png"
 images = ["/images/site-feature-image.jpg"]
 
