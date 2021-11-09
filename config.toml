@@ -1,0 +1,42 @@
+BaseURL = "https://www.myproductionurl.com/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "mytheme"
+# theme = "hugo-bootstrap-5"
+relativeURLS = true
+
+[params]
+author = "Blog Author"
+description = "This is an awesome Hugo Bootstrap site"
+logo = "https://www.mywebsite.com/images/logo.png"
+images = ["/images/site-feature-image.jpg"]
+
+# Google analytics
+googleAnalytics = "UA-1511XXXX-X"
+
+enableRobotsTXT = true
+
+[module]
+[[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+sectionPagesMenu = "main"
+
+[menu]
+
+[[menu.main]]
+    identifier = "books"
+    title = "Books"
+    url = "/books/"
+    weight = 200
+
+[[menu.main]]
+    identifier = "research"
+    title = "Research"
+    url = "/research/"
+    weight = 300

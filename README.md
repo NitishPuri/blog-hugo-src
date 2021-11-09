@@ -1,2 +1,2 @@
 # blog-hugo
-Hugo based blog for notes.
+Hugo based blog source.
