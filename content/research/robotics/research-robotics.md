@@ -1,7 +1,7 @@
 ---
 title: Robotics Research
-tags: [notes, robotics]
-categories: [robotics]
+tags: [robotics]
+categories: [notes]
 lastmod: 2017-09-04
 featuredImage: /images/papers/darwin_1.jpg
 ---

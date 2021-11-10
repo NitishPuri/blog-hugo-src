@@ -10,11 +10,18 @@ author = "Nitish Puri"
 description = "These are some notes."
 logo = "https://www.mywebsite.com/images/logo.png"
 images = ["/images/site-feature-image.jpg"]
+# copyright = "Hugo template made with ❤ by Nitish"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 
 # Google analytics
 googleAnalytics = "UA-1511XXXX-X"
 
 enableRobotsTXT = true
+
 
 [module]
 [[module.mounts]]

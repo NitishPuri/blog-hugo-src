@@ -1,7 +1,7 @@
 ---
 title: Object Detection and Image Segmentation
-tags: [notes, deep-learning, image-segmentation]
-categories: [machine-intelligence]
+tags: [machine-intelligence, deep-learning, image-segmentation]
+categories: [notes]
 mathjax: true
 lastmod: 2017-9-21 5:30
 ---

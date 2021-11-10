@@ -1,8 +1,8 @@
 ---
 title: Biologically Inspired Robots
 mathjax: true
-tags: [notes, robotics]
-categories: [robotics]
+tags: [robotics, biorobots]
+categories: [notes]
 lastmod: 2017-09-05
 featuredImage: /images/papers/bioRobots2.jpg
 ---

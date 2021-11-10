@@ -1,8 +1,8 @@
 ---
 title: Soft Robotics
 mathjax: true
-tags: [notes, robotics]
-categories: [robotics]
+tags: [robotics]
+categories: [notes]
 lastmod: 2017-09-17
 featuredImage: /images/papers/soft_7.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Robotics Engineer Nanodegree :: Term 2"
-categories: [robotics]
+categories: [notes]
 tags: [udacity, robotics, projects]
 lastmod: 2018-03-28
 ---
