@@ -1,5 +1,5 @@
 ---
-title: Algorithms, Part 2
+title: Algorithms by DasGupta, Part 2
 mathjax: true
 tags: [algorithms, notes]
 lastMod: 2017-08-19

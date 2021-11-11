@@ -1,6 +1,5 @@
 ---
-title: Algorithms, Part 3
-author: Sanjoy DasGupta
+title: Algorithms by DasGupta, Part 3
 mathjax: true
 tags: [algorithms, notes]
 lastMod: 2017-08-29

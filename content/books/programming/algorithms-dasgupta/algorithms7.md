@@ -1,6 +1,5 @@
 ---
-title: Algorithms, Part 7
-author: Sanjoy DasGupta
+title: Algorithms by DasGupta, Part 7
 use_math: true
 tags: [algorithms, notes]
 lastMod: 2017-09-14
