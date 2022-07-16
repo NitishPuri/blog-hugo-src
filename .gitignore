@@ -2,3 +2,4 @@ node_modules
 resources
 .vscode
 .git
+/.hugo_build.lock
