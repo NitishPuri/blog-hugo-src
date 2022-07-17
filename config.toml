@@ -1,4 +1,5 @@
-BaseURL = "https://nitishpuri.github.io/blog-hugo/"
+# BaseURL = "https://nitishpuri.github.io/blog-hugo/"
+BaseURL = "https://nitishpuri.github.io/"
 languageCode = "en-us"
 title = "Blog - Nitish Puri"
 # theme = "mytheme"
@@ -32,18 +33,18 @@ enableRobotsTXT = true
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 
-[menu]
+# [menu]
 
-[[menu.main]]
-    identifier = "books"
-    title = "Books"
-    url = "/books/"
-    weight = 200
+# [[menu.main]]
+#     identifier = "books"
+#     title = "Books"
+#     url = "/books/"
+#     weight = 200
 
-[[menu.main]]
-    identifier = "research"
-    title = "Research"
-    url = "/research/"
-    weight = 300
+# [[menu.main]]
+#     identifier = "research"
+#     title = "Research"
+#     url = "/research/"
+#     weight = 300
