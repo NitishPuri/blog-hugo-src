@@ -1,5 +1,6 @@
 node_modules
-resources
+/resources
 .vscode
 .git
+/public
 /.hugo_build.lock
