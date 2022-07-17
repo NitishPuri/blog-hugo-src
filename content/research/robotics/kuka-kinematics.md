@@ -5,9 +5,6 @@ tags: [udacity, robotics, kuka]
 featuredImage: /images/kuka/kuka1.jpg
 lastmod: 2017-09-28
 mathjax: true
-menu:
-  main:
-    parent: "research"
 ---
 
 Picking and placing objects is something that we as humans take for granted. That's not the case for our mechanical(and electronic) friends. They have to
