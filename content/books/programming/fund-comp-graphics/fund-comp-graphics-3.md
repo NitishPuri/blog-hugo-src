@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 3
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "The Graphics Pipeline and Signal Processing"
 ---
 
 ## Chapter 8 : The Graphics Pipeline

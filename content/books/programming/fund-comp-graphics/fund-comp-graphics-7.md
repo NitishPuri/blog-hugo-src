@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 7
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Sampling, Curves and Computer Animation"
 ---
 
 ## Chapter 14 : Sampling 

@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 9
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Tone Reproduction, Global Illumination, Reflection Models, Games, Visualization and Spatial Field Visualization"
 ---
 
 ## Chapter 23 : Tone Reproduction

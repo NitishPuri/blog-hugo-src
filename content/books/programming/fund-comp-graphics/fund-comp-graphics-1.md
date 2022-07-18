@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 1
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Introduction, Basic Maths, Raster Images and Introduction to Ray Tracing.   "
 ---
 
 ## Chapter 1: Introduction

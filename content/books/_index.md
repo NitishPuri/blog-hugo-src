@@ -2,4 +2,4 @@
 title: Books
 ---
 
-Some books i read
+Some books I read

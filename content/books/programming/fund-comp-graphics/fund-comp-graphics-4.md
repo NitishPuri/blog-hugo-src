@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 4
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Surface shading and Texture Mapping"
 ---
 
 ## Chapter 10 : Surface Shading

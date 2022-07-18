@@ -1,8 +1,11 @@
 ---
-title: Game Engine Architecture
+title: Game Engine Architecture, Jason Gregory
 tags: [game-engine, graphics, architecture]
 mathjax: true
 lastMod: 2018-01-10
+weight: 1
+summary: "**All the technology that goes in making a AAA game!!!!** \n\n
+            Based on : Game Engine Architecture by Jason Gregory"
 ---
 
 Based on : Game Engine Architecture by Jason Gregory

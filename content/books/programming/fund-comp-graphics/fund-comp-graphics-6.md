@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 6
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Data Structures for Graphics and More Ray Tracing"
 ---
 
 ## Chapter 12 : Data Structures for Graphics

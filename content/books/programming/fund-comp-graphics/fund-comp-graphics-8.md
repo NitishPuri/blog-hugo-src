@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 8
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Graphics Hardware, Interactive Applications, Light and Color, Visual Perception"
 ---
 
 ## Chapter 18 : Using Graphics Hardware

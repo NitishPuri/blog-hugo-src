@@ -3,6 +3,7 @@ title: Fundamentals of Computer Graphics, Peter Shirley, Part 5
 use_math: true
 tags: [graphics, notes, programming]
 lastMod: 2017-08-17
+summary: "Some Illustrations"
 ---
 
 ## Illustrations
